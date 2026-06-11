@@ -28,8 +28,8 @@ ln -sf ../../inwanding-rules-and-skills/skills .cursor/skills
 
 ```bash
 mkdir -p .cursor
-ln -sf inwanding-rules-and-skills/rules .cursor/rules
-ln -sf inwanding-rules-and-skills/skills .cursor/skills
+ln -sf ../inwanding-rules-and-skills/rules .cursor/rules
+ln -sf ../inwanding-rules-and-skills/skills .cursor/skills
 ```
 
 ### 方式二：git submodule（遠端 clone 用）
